@@ -1,7 +1,8 @@
-## Oi! Me chamo João, designer e estudante de tecnologia👋
+## Oi! Me chamo João
+Designer e estudante de tecnologia👋
 
 - 🔭 Estudante de front-end.
-- 🌱 Javascript e React.
+- 🌱 Javascript, React, Sass, BootStrap
 
 <div align="center">
   <a href="https://github.com/jottadev">
