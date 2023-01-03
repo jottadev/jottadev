@@ -1,4 +1,4 @@
-## Oi! Me chamo João.
+## Oi! Me chamo João Ythalo
 Designer e estudante de tecnologia👋
 
 - 🔭 Estudante de front-end.
