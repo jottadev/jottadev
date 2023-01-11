@@ -2,7 +2,7 @@
 Designer e estudante de tecnologia👋
 
 - 🔭 Estudante de front-end.
-- 🌱 Javascript, React, Sass, BootStrap
+- 🌱 Javascript, Typescript, AngularJS e Tailwind.
 
 <div align="center">
   <a href="https://github.com/jottadev">
